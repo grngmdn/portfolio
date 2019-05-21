@@ -22,6 +22,8 @@
 
     <!-- Custom styles for this template -->
     <link href="css/resume.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
 
   </head>
 
@@ -70,7 +72,7 @@
             <span class="text-primary">Gurung</span>
           </h1>
           <div class="subheading mb-5">Reading · berkshire · UK ·
-            <a href="mailto:name@email.com">gurungmadan@hotmail.com</a>
+            <a href="mailto:gurungmadan@hotmail.com">gurungmadan@hotmail.com</a>
           </div>
           <p class="mb-5">IT graduate with passion to begin pursuing a lifelong
             career within the Information System Technology sector; <br><br>seeking to progress
@@ -90,7 +92,7 @@
         </div>
       </section>
 
-      <!-- PROJECTS -->
+      <!-- ALL THE PROJECTS -->
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
           <h2 class="mb-5">Projects</h2>
@@ -130,7 +132,7 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0"><a href="http://madangurungphotography.com">madangurungphotography.com</a></h3>
+              <h3 class="mb-0"><a href="photography.php">madangurung.com/photography</a></h3>
               <div class="subheading mb-3">Web Developer</div>
               <p>A personal photography portfolio.</p>
             </div>
@@ -256,7 +258,7 @@
           specifically PC games that are against other players because of my competitive nature.
         Since my experience in catering at the restaurants previously, i also have interests
         in cooking and like to cook meals for my family on occasions.
-        In terms of languages, i am able to speak Nepalese and english fluently, while also knowing hindi in a conversational level.</p>
+        In terms of languages, i am able to speak Nepalese and English fluently, while also knowing Hindi in a conversational level.</p>
         </div>
       </section>
 
