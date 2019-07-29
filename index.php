@@ -133,7 +133,7 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0"><a href="photography.php">madanphotography.com</a></h3>
+              <h3 class="mb-0"><a href="http://madanphotography.com">madanphotography.com</a></h3>
               <div class="subheading mb-3">Web Developer</div>
               <p>A personal photography portfolio.</p>
             </div>
