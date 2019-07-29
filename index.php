@@ -259,8 +259,8 @@
           <p>Aside from web design there are various activities i enjoy during my free time.
           As a physically active individual i like to play football and basketball during the warmer months.
           While during winter i keep fit by running and going to the gym on a daily basis.
-          Photography is one of my main hobbies as i love to take pictures with my film cameras.
-          While nature and landscape photography are my favourite subjects to photograph.
+          Photography is one of my main hobby as i love taking pictures with my camera, while nature and
+          landscape are some of my favourite subjects to photograph.
 
         <p class="mb-0">When i am indoors i often like to play online video games during my spare time,
           specifically PC games that are against other players because of my competitive nature.
