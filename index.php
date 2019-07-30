@@ -100,42 +100,104 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
+
+              <!-- img -->
+              <a href="http://readingtamusamajuk.com"><img src="img/rts_thumbnail.jpg" alt="Avatar" class="image" style="width:250px"></a><br><br>
+
               <h3 class="mb-0"><a href="http://readingtamusamajuk.com">readingtamusamajuk.com</a></h3>
               <div class="subheading mb-3">Web Developer</div>
-              <p>Building a website for a non-profit organization. (Local Nepalese community in Reading)</p>
+              <p>Building a website for a non-profit organization. (Local Nepalese community in Reading)</p><br>
+              <h6 class="mb-0">Technology used</h6>
+              <ul class="list-inline list-icons">
+                <li class="list-inline-item">
+                  <i class="devicons devicons-html5"></i>
+                  <i class="devicons devicons-css3"></i>
+                  <i class="devicons devicons-bootstrap"></i>
+                  <i class="devicons devicons-photoshop"></i>
+                </li>
+              </ul><hr>
+              <h6><a href="https://github.com/grngmdn/RTS.git">github link</a></h6><hr>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
+
+              <!-- img -->
+              <a href="http://tscltd.co.uk/"><img src="img/tsc_thumbnail.jpg" alt="Avatar" class="image" style="width:250px"></a><br><br>
+
               <h3 class="mb-0"><a href="http://tscltd.co.uk/">tscltd.co.uk</a></h3>
               <div class="subheading mb-3">Web Developer</div>
-              <p>Building a website for a security service company.</p>
+              <p>Building a website for a security service company.</p><hr>
+              <h6 class="mb-0">Technology used</h6>
+              <ul class="list-inline list-icons">
+                <li class="list-inline-item">
+                  <i class="devicons devicons-html5"></i>
+                  <i class="devicons devicons-css3"></i>
+                  <i class="devicons devicons-bootstrap"></i>
+                  <i class="devicons devicons-photoshop"></i>
+                </li>
+              </ul><hr>
+              <h6><a href="https://github.com/grngmdn/tscltd.git">github link</a></h6><hr>
             </div>
           </div>
 
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
+
+              <!-- img -->
+              <a href="http://igssltd.co.uk"><img src="img/igssltd_thumbnail.jpg" alt="Avatar" class="image" style="width:250px"></a><br><br>
+
               <h3 class="mb-0"><a href="http://igssltd.co.uk">igssltd.co.uk</a></h3>
               <div class="subheading mb-3">Web Developer</div>
-              <p>Building and maintaining the company's website by updating and adding new content or information.</p>
+              <p>Building and maintaining the company's website by updating and adding new content or information.</p><hr>
+              <h6 class="mb-0">Technology used</h6>
+              <ul class="list-inline list-icons">
+                <li class="list-inline-item">
+                  <i class="devicons devicons-html5"></i>
+                  <i class="devicons devicons-css3"></i>
+                </li>
+              </ul><hr>
+              <h6><a href="https://github.com/grngmdn/igssltd.git">github link</a></h6><hr>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
+
+              <!-- img -->
+              <a href="https://flic.kr/p/QtJBVA"><img src="img/poster_thumbnail.jpg" alt="Avatar" class="image" style="width:200px"></a><br><br>
+
               <h3 class="mb-0"><a href="https://flic.kr/p/QtJBVA">INTEGRATED GURKHA SECURITY SERVICES</a></h3>
               <div class="subheading mb-3">Leaflet & Brochure design</div>
-              <p>Desigining leaflet and brochure for the company.</p>
+              <p>Desigining leaflet and brochure for the company.</p><hr>
+              <h6 class="mb-0">Technology used</h6>
+              <ul class="list-inline list-icons">
+                <li class="list-inline-item">
+                  <i class="devicons devicons-photoshop"></i>
+                </li>
+              </ul>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0"><a href="http://madanphotography.com">madanphotography.com</a></h3>
+
+              <!-- img -->
+              <a href="https://madanphotography.com"><img src="img/photography_thumbnail.jpg" alt="Avatar" class="image" style="width:250px"></a><br><br>
+
+              <h3 class="mb-0"><a href="https://madanphotography.com">madanphotography.com</a></h3>
               <div class="subheading mb-3">Web Developer</div>
-              <p>A personal photography portfolio.</p>
+              <p>A personal photography portfolio.</p><hr>
+              <h6 class="mb-0">Technology used</h6>
+              <ul class="list-inline list-icons">
+                <li class="list-inline-item">
+                  <i class="devicons devicons-wordpress"></i>
+                  <i class="devicons devicons-photoshop"></i>
+                </li>
+              </ul><hr>
+              <h6><a href="https://github.com/grngmdn/portfolio.git">github link</a></h6><hr>
             </div>
           </div>
 
