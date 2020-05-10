@@ -279,12 +279,17 @@
               <i class="devicons devicons-css3"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-javascript"></i>
+              <i class="devicon-sass-original"></i>
             </li>
             <li class="list-inline-item">
               <i class="devicons devicons-bootstrap"></i>
             </li>
-
+            <li class="list-inline-item">
+              <i class="devicons devicons-javascript"></i>
+            </li>
+            <!-- <li class="list-inline-item">
+            <i class="devicon-react-original"></i>
+            </li> -->
             <li class="list-inline-item">
               <i class="devicon-git-plain"></i>
             </li>
@@ -292,10 +297,13 @@
               <i class="devicon-github-plain-wordmark"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicon-sass-original"></i>
+              <i class="devicons devicons-photoshop"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-photoshop"></i>
+            <i class="devicon-webpack-plain"></i>
+            </li>
+            <li class="list-inline-item">
+            <i class="devicon-babel-plain"></i>
             </li>
           </ul>
 
